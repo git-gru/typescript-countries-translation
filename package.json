@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "print translation of country names",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/git-gru/typescript-countries-translation.git"
+  },
+  "author": "Felonius Gru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/git-gru/typescript-countries-translation/issues"
+  },
+  "homepage": "https://github.com/git-gru/typescript-countries-translation#readme"
+}
