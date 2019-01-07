@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/git-gru/typescript-countries-translation#readme",
   "devDependencies": {
+    "@types/node": "^10.12.18",
     "typescript": "^3.2.2"
   }
 }
