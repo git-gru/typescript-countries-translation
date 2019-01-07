@@ -7,7 +7,7 @@ export const getTranslations = (translation_key: string, countries: ICountryMode
         if (translations[translation_key] && translations[translation_key].official) {
             return translations[translation_key].official;
         } else {
-            return `Translation for ${translation_key} is not existing for ${c.flag}`;
+            return `Translation for ${translation_key} is not existing for "${c.name.official}"`;
         }
     });
 }
